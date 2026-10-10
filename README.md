@@ -19,12 +19,12 @@ I design scalable web applications, build complex user interfaces, and establish
 </p>
 
 <a href="https://notnamejack.github.io/resume/">
-  <img
-    src="https://api.microlink.io/?url=https%3A%2F%2Fnotnamejack.github.io%2Fresume%2F&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1440&viewport.height=900"
-    alt="Frontend Engineer Portfolio Preview"
-    width="850"
-  />
-</a>
+    <img
+      src="https://api.microlink.io/?url=https%3A%2F%2Fnotnamejack.github.io%2Fresume%2F&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1440&viewport.height=900&screenshot.darkMode=true"
+      alt="Frontend Engineer Portfolio Preview"
+      width="850"
+    />
+  </a>
 
 <br/>
 
