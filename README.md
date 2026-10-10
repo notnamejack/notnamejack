@@ -1,30 +1,43 @@
-# Frontend Engineer · Architecture · Leadership
+
+<div align="center">
+
+# Frontend Engineer
+### Architecture · Development · Leadership
 
 **Senior / Lead Frontend Developer**
 
-Проектирую архитектуру веб-приложений, разрабатываю сложные интерфейсы и выстраиваю инженерные процессы в командах.
+I design scalable web applications, build complex user interfaces, and establish engineering practices that help development teams deliver high-quality software.
 
-### Portfolio
+<p>
+  <a href="https://notnamejack.github.io/resume/">
+    <strong>Explore My Portfolio →</strong>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/notnamejack">
+    GitHub
+  </a>
+</p>
 
-**[🌐 Открыть моё интерактивное портфолио](https://notnamejack.github.io/resume/)**
+<a href="https://notnamejack.github.io/resume/">
+  <img
+    src="https://api.microlink.io/?url=https%3A%2F%2Fnotnamejack.github.io%2Fresume%2F&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1440&viewport.height=900"
+    alt="Frontend Engineer Portfolio Preview"
+    width="850"
+  />
+</a>
+
+<br/>
 
 ### Engineering Expertise
 
-- **Frontend Architecture:** React, TypeScript, FSD, Redux Toolkit, RTK Query
-- **Engineering Leadership:** управление командой, наставничество, Code Review, технические собеседования
-- **Development Infrastructure:** GitLab CI/CD, Azure DevOps, GitHub Actions, AI Code Review
-- **Complex Interfaces:** WebGL, Canvas, корпоративные системы и интерактивные визуализации
+**Frontend Architecture** · **React & TypeScript** · **Engineering Leadership** · **CI/CD & Automation** · **AI Code Review**
 
-### Selected Project
+<br/>
+
+### Featured Project
 
 **[Four Horses Club](https://github.com/notnamejack/four-horses-club)**
 
-### Experience
+[View Source Code →](https://github.com/notnamejack/four-horses-club)
 
-- 5+ лет коммерческой разработки
-- Координация frontend-команды из 9 специалистов
-- Замещение руководителя отдела с командой до 30 специалистов
-
----
-
-[Portfolio](https://notnamejack.github.io/resume/) · [GitHub](https://github.com/notnamejack)
+</div>
